@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPracownicy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pracownicy>
+    <Imie>a</Imie>
+    <Naziwsko>a</Naziwsko>
+    <DataUrodzenia>2021-05-28T13:19:36.1583038+02:00</DataUrodzenia>
+    <AdresZamieszkania>a</AdresZamieszkania>
+    <UrzadSkarbowy>a</UrzadSkarbowy>
+    <DataRozpoczeciaPracy>2021-05-28T13:19:36.1523211+02:00</DataRozpoczeciaPracy>
+    <StawkaGodzinowa>1</StawkaGodzinowa>
+    <Telefon>a</Telefon>
+    <Wynagrodzenie>0</Wynagrodzenie>
+  </Pracownicy>
+</ArrayOfPracownicy>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDzieńPlanowany xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DzieńPlanowany>
+    <Data>2021-05-28T00:00:00+02:00</Data>
+    <PalnowaneGodziny>3</PalnowaneGodziny>
+    <RoboczoGodziny>3</RoboczoGodziny>
+    <Pracownik>a a</Pracownik>
+  </DzieńPlanowany>
+</ArrayOfDzieńPlanowany>
